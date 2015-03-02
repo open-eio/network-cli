@@ -5,6 +5,8 @@ program.allowUnknownOption(true)
 var fs = require('fs')
 var exec = require('child_process').exec
 
+var wificonnect = require('lib/ReconfigureNetwork.js')
+
 //console.log(process.argv)
 
 program
