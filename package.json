@@ -1,0 +1,28 @@
+{
+  "name": "network-cli",
+  "version": "0.0.0",
+  "description": "Thin command-line interface for Pipe Drivers. Will pull data from one Driver and push it to another.",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "network": "cli.js"
+  },
+  "dependencies": {
+        "commander": "^2.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/open-eie/network-cli.git"
+  },
+  "keywords": [
+    "sensors"
+  ],
+  "author": "R.J. Steinert",
+  "license": "AGPL3",
+  "bugs": {
+    "url": "https://github.com/open-eio/network-cli/issues"
+  },
+  "homepage": "https://github.com/open-eio/network-cli"
+}
