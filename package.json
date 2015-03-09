@@ -1,6 +1,6 @@
 {
   "name": "network-cli",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Thin command-line interface for Pipe Drivers. Will pull data from one Driver and push it to another.",
   "main": "cli.js",
   "scripts": {
